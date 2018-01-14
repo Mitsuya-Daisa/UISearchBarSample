@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in searchViewController.searchItems(searchText:):searchViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "searchViewController.searchItems(searchText:):searchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "myItems">
+            </PersistentString>
+            <PersistentString
+               value = "searchResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "searchViewController.kensakuBut(_:):searchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
